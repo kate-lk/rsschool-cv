@@ -1,37 +1,39 @@
-# Екатерина Лупаштян
-![photo](photo.png)
-> *О себе*: 
+# Katsiaryna Lupashtsian
+![photo](photo.png/ 100x50)
 
-Инженер, 22 года, не замужем. Стремлюсь получить больше возможностей для профессионального развития. Я коммуникабельный и целеустремленный человек. Быстро обучаюсь, люблю узнавать что-то новое. Из моих увлечений можно перечислить стретчинг, чтение, путешествия по историческим местам Беларуси.
+> *About myself*: 
 
->*Контактная информация*:
+Engineer, 22 years old, not married. I strive to get more opportunities for professional development. I am a sociable and purposeful person. I learn quickly, I like to learn something new. Some of my hobbies include stretching, reading, traveling to historical places in Belarus.
+***
+>*Contact Information*:
 
-тел.: +375298017831  
+tel.: +375298017831  
 e-mail: kate.lupashtsian@gmail.com  
-адрес: г. Минск, ул. Франциска Скорины, 16а
+address: 16a Francisk Skaryna, Minsk
+***
+>*Education*:
 
->*Образование*:
-
-Белорусский Государственный Университет (09.2015-06.2019)  
-Факультет радиофизики и компьютерных технологий  
-Бакалавр  
-Специальность: Радиофизика  
-Специализация: Спутниковые информационные системы и
-технологии
-
->*Дополнительные курсы*: 
+Belarusian State University (09.2015-06.2019)  
+Faculty of Radiophysics and Computer Technologies  
+Bachelor  
+Specialty: Radiophysics  
+Specialization: Satellite information systems and
+technologies
+***
+>*Additional courses*: 
 
 System Integration Netcracker (q3-q4 2017)  
-Школа английского языка International House
+School of English "International House"
+***
+>*Work experience*: 
 
->*Опыт работы*: 
+Health care institution "Clinical Maternity Hospital of Minsk Region" (2019 - present)
+***
+>*Skills*:
 
-Учреждение здравоохранения "Клинический родильный дом Минской области" (2019 - н.в.)
->*Навыки*:
-
-Программы :         |Технические языки:  |   Языки        : |
+Programs:           |Technical languages:|Languages       : |
 ----------          | ------------       | ------------
-Microsoft Office    |  CSS               | Русский
-Matlab              |  SQL               | Белорусский
-Wolfram Mathematica |  HTML5             | Английский
-СМДО                |  JavaScript
+Microsoft Office    |  CSS               | Russian
+Matlab              |  SQL               | Belorussian
+Wolfram Mathematica |  HTML5             | English
+SMDO                |  JavaScript
