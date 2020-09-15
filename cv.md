@@ -1,5 +1,5 @@
 # Katsiaryna Lupashtsian
-![photo](photo.png/ 100x50)
+![photo](photo.png)
 
 > *About myself*: 
 
@@ -31,9 +31,9 @@ Health care institution "Clinical Maternity Hospital of Minsk Region" (2019 - pr
 ***
 >*Skills*:
 
-Programs:           |Technical languages:|Languages       : |
-----------          | ------------       | ------------
-Microsoft Office    |  CSS               | Russian
-Matlab              |  SQL               | Belorussian
-Wolfram Mathematica |  HTML5             | English
+Programs:           |Technical languages:|Languages:       |
+----------          | ------------       | ------------    |
+Microsoft Office    |  CSS               | Russian         |
+Matlab              |  SQL               | Belorussian     |
+Wolfram Mathematica |  HTML5             | English         |
 SMDO                |  JavaScript
