@@ -1,21 +1,18 @@
 # Katsiaryna Lupashtsian
-![photo](photo.png =50x50)
+<img src="photo.png" width = "250">
 
-> *About myself*: 
+> ***About myself***: 
 
 Engineer, 22 years old, not married. I strive to get more opportunities for professional development. I am a sociable and purposeful person. I learn quickly, I like to learn something new. Some of my hobbies include stretching, reading, traveling to historical places in Belarus.
 
-***
-
->*Contact Information*:
+>***Contact Information***:
 
 tel.: +375298017831  
 e-mail: kate.lupashtsian@gmail.com  
 address: 16a Francisk Skaryna, Minsk
 
-***
 
->*Education*:
+>***Education***:
 
 Belarusian State University (09.2015-06.2019)  
 Faculty of Radiophysics and Computer Technologies  
@@ -24,22 +21,17 @@ Specialty: Radiophysics
 Specialization: Satellite information systems and
 technologies
 
-***
-
->*Additional courses*: 
+>***Additional courses***: 
 
 System Integration Netcracker (q3-q4 2017)  
 School of English "International House"
 
-***
-
->*Work experience*: 
+>***Work experience***: 
 
 Health care institution "Clinical Maternity Hospital of Minsk Region" (2019 - present)
 
-***
 
->*Skills*:
+>***Skills***:
 
 Programs:           |Technical languages:|Languages:       |
 ----------          | ------------       | ------------    |
