@@ -1,0 +1,28 @@
+#header {
+    background-color:rgb(183, 241, 239);
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+#name {
+    text-align: center;
+    font: oblique normal 25px 'Century Gothic', sans-serif;
+    color: rgb(6, 17, 82);
+    width: 800px;
+    height: 50px;
+    padding: 80px;
+}
+#function {
+    text-align: center;
+    font: oblique bold 40px 'Century Gothic', sans-serif;
+    color: rgb(27, 22, 15);
+}
+.photo {
+    float:left;
+    margin: 7px 7px 7px 20px;
+}
+.sectionName {
+    background-color: rgb(183, 241, 239);
+    text-align: center;
+    font: normal bold 24px 'AGOptCyrillic Normal-Italic', sans-serif;
+}
