@@ -4,11 +4,17 @@
     margin-right: auto;
     width: 800px;
 }
+#content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    background-color:rgb(183, 241, 239);
+}
 #name {
     text-align: center;
     font: oblique normal 25px 'Century Gothic', sans-serif;
     color: rgb(6, 17, 82);
-    width: 800px;
+    width: 700px;
     height: 50px;
     padding: 80px;
 }
@@ -24,5 +30,7 @@
 .sectionName {
     background-color: rgb(183, 241, 239);
     text-align: center;
-    font: normal bold 24px 'AGOptCyrillic Normal-Italic', sans-serif;
+    color: rgb(6, 17, 82);
+    font: oblique normal 15px 'Century Gothic', sans-serif;
+
 }
