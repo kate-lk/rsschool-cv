@@ -1,0 +1,67 @@
+#header {
+    background-color:rgb(183, 241, 239);
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+#content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+#name {
+    text-align: center;
+    font: oblique normal 40px 'Century Gothic', sans-serif;
+    color: rgb(6, 17, 82);
+    width: 700px;
+    height: 30px;
+    padding: 50px 80px 0px 80px;
+}
+#function {
+    text-align: center;
+    font: oblique normal 25px 'Century Gothic', sans-serif;
+    color: rgb(6, 17, 82);
+    padding: 0px 80px 50px 80px;
+}
+.photo {
+    float:left;
+    margin: 7px 7px 7px 20px;
+}
+.sectionName {
+    background-color: rgb(183, 241, 239);
+    text-align: center;
+    color: rgb(6, 17, 82);
+    font: oblique normal 15px 'Century Gothic', sans-serif;
+    padding: 10px;
+}
+.layer1 {
+    float: right;
+    width: 390px;
+}
+.layer2 {
+    padding: 1px;
+    width: 390px;
+}
+.layer3 {
+    float: right;
+    width: 390px;
+}
+.layer4 {
+    padding: 1px;
+    width: 390px;
+}
+.layer5 {
+    float: right;
+    width: 390px;
+}
+.layer6 {
+    padding: 1px;
+    width: 390px;
+}
+.table {
+    margin: 0px 0px 100px 0px; 
+
+}
+#firsttd {
+    background-color: rgba(183, 241, 239, 0.4);
+}
