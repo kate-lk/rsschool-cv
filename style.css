@@ -33,35 +33,27 @@
     font: oblique normal 15px 'Century Gothic', sans-serif;
     padding: 10px;
 }
-.layer2 {
-    padding: 3px;  
-    width: 390px;
-}
 .layer1 {
-    margin-left: 400px;
-    padding: 5px;  
+    float: right;
     width: 390px;
-    float: left;
 }
-.layer4 {
-    margin-left: 400px;
-    padding: 5px;  
+.layer2 {
+    padding: 1px;
     width: 390px;
-    float: left;
 }
 .layer3 {
-    margin-right: 400px;
-    padding: 5px;  
+    float: right;
+    width: 390px;
+}
+.layer4 {
+    padding: 1px;
+    width: 390px;
+}
+.layer5 {
+    float: right;
     width: 390px;
 }
 .layer6 {
-    margin-left: 400px;
-    padding: 5px;  
-    width: 390px;
-    float: left;
-}
-.layer5 {
-    margin-right: 400px;
-    padding: 5px;  
+    padding: 1px;
     width: 390px;
 }
