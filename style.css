@@ -65,3 +65,12 @@
 #firsttd {
     background-color: rgba(183, 241, 239, 0.4);
 }
+.square {
+    list-style-image: url(square.jpg);
+    padding-left: 30px;
+}
+.items {
+    margin-left: 0px;
+    margin-bottom: 15px;
+    
+}
