@@ -10,7 +10,7 @@
     margin-left: auto;
     margin-right: auto;
     width: 800px;
-    height: 100px;
+    height: 120px;
 }
 #content {
     margin-left: auto;
@@ -112,4 +112,6 @@
     display: inline; 
     margin-left: 250px; 
     padding: 10px; 
+}#git {
+    padding: 8px;
 }
