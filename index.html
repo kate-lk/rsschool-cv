@@ -74,6 +74,34 @@
           <li class="items">English</li>
         </ul>
       </section>
+      <section class="layer8">
+        <h5 class="sectionName">Sample code</h5>
+        <pre>
+          function count(string) {
+            if (string.length == 0) {
+              return {};
+            }
+            let newString = string.replace(/(\w)\1+/g, "$1");
+            let number = new Array();
+            number.length = newString.length;
+            for (let k = 0; k < number.length; k++) {
+              number[k] = 0;
+            }
+            for (let i = 0; i < newString.length; i++) {
+              for (let j = 0; j < string.length; j++) {
+                if (newString[i] == string[j]) {
+                  number[i] += 1;
+                }
+              }
+            }
+            let obj = {};
+            for (let n = 0; n < newString.length; n++) {
+              obj[newString[n]] = number[n];
+            }
+            return obj;
+          }
+        </pre>
+      </section>
     </main>
     <footer id="footer">
       <ul class = "link">
