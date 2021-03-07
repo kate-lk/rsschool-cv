@@ -115,3 +115,12 @@
 }#git {
     padding: 8px;
 }
+.address {
+    margin: 0;
+    padding: 0px;
+}
+.address_item {
+    padding: 0px;
+    list-style-type: none;
+    margin-bottom: 5px;
+}
