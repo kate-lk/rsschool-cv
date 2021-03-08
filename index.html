@@ -44,14 +44,16 @@
           School of English “International House”
         </p>
       </section>
-      <address class="layer4">
+      <section class="layer4">
         <h5 class="sectionName">Contact Information</h5>
-        <ul class="address">
-          <li class="address_item">tel.: +375298017831</li>
-          <li class="address_item">e-mail: kate.lupashtsian@gmail.com</li>
-          <li class="address_item">address: 16a Francisk Skaryna, Minsk</li>
-        </ul>
-      </address>
+        <address>
+          <ul class="address">
+            <li class="address_item">tel.: +375298017831</li>
+            <li class="address_item">e-mail: kate.lupashtsian@gmail.com</li>
+            <li class="address_item">address: 16a Francisk Skaryna, Minsk</li>
+          </ul>
+        </address>
+      </section>
       <section class="layer5">
         <h5 class="sectionName">Skills</h5>
         <ul class="square">
@@ -89,18 +91,18 @@
             let newString = string.replace(/(\w)\1+/g, "$1");
             let number = new Array();
             number.length = newString.length;
-            for (let k = 0; k < number.length; k++) {
+            for (let k = 0; k &lt; number.length; k++) {
               number[k] = 0;
             }
-            for (let i = 0; i < newString.length; i++) {
-              for (let j = 0; j < string.length; j++) {
+            for (let i = 0; i &lt newString.length; i++) {
+              for (let j = 0; j &lt; string.length; j++) {
                 if (newString[i] == string[j]) {
                   number[i] += 1;
                 }
               }
             }
             let obj = {};
-            for (let n = 0; n < newString.length; n++) {
+            for (let n = 0; n &lt; newString.length; n++) {
               obj[newString[n]] = number[n];
             }
             return obj;
@@ -137,7 +139,8 @@
           /></a>
         </li>
       </ul>
-      <time>2021/03 &#xA9; Kate Lupashtsian</time>
+      <time>2021/03</time>
+      <span>&#xA9; Kate Lupashtsian</span>
     </footer>
   </body>
 </html>
