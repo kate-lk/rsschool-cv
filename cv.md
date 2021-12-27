@@ -1,16 +1,17 @@
 # ***Katsiaryna Lupashtsian***
 
-***
 
-## ***Contacts***
+> ## ***Contacts***
 
- tel.: +375 29 801 78 31
- e-mail: kate.lupashtsian@gmail.com
+ tel.: +375 29 801 78 31  
+ e-mail: kate.lupashtsian@gmail.com  
  adds: Minsk, Francis Skorina street, 16a
 
-## ***About me***
+> ## ***About myself***
 
-## ***Skills***
+Engineer, 23 years old, single. I strive to get more opportunities for professional development. At the moment I am engaged in servicing computer equipment and peripheral devices, building a local computer network. Additionally, I temporarily held the position of secretary and performed the work of the procurement department of a state institution. I am engaged in the development of postcards and leaflets for the maternity hospital in the Minsk region. Some of my hobbies include stretching and traveling to historical places in Belarus.
+
+> ## ***Skills***
 
 * HTML
 * CSS 
@@ -19,7 +20,7 @@
 * Figma
 * Canva
 
-## ***Code examples***
+> ## ***Code examples***
 
 **KATA from CODEWARS:** If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.  
 Finish the solution so that it returns the sum of all the multiples of 3 or 5 below the number passed in. Additionally, if the number is negative, return 0 (for languages that do have them).  
@@ -42,11 +43,11 @@ function solution(number){
 ```
 
 
-## ***Experience***
+> ## ***Experience***
 
 Health care institution "Clinical Maternity Hospital of Minsk Region" (2019 - present)
 
-## ***Education***
+> ## ***Education***
 
 Belarusian State University (09.2015-06.2019)  
 Faculty of Radiophysics and Computer Technologies  
@@ -60,7 +61,7 @@ technologies
 System Integration Netcracker (q3-q4 2017)  
 School of English "International House"
 
-## ***Languages***
+> ## ***Languages***
 
 * Russian - native
 * English - A2
