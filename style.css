@@ -267,3 +267,16 @@ a {
     font-size: 22px;
     color: #1187a3;
 }
+
+.projects {
+    width: 650px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+   /* filter: grayscale(100%); */
+}
+
+.wrapper-projects {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
