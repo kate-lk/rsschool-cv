@@ -232,10 +232,38 @@ a {
     font-family: Roboto;
     font-style: normal;
     font-weight: 200;
-    font-size: 18px;
+    font-size: 22px;
     color: #1187a3;
     text-align: center;
     max-width: 800px;
     margin-top: 20px;
     margin: 0 auto;
+}
+
+.icon-education {
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.icon-wrapper-education {
+    border-right: 7px solid #45b1c6;
+    padding-left: 400px;
+    padding-right: 100px;
+}
+
+.text-education {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 90px;
+    margin-top: 40px;
+   margin-right: 200px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 22px;
+    color: #1187a3;
 }
