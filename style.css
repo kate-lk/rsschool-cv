@@ -277,8 +277,9 @@ a {
 
 .wrapper-projects {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     flex-wrap: wrap;
+    padding-top: 30px;
 }
 
 .skills-item {
@@ -296,7 +297,10 @@ a {
     font-size: 30px;
     color: white;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 15px;
+
+    flex-direction: column;
+    flex-grow: 2;
 }
 
 .code-text {
@@ -306,6 +310,8 @@ a {
 .footer {
   background-color: #45b1c6;
   height: 160px;
+  max-width: 1920px;
+  margin: 0 auto;
 }
 
 .wrapper-rs_school_js {
@@ -323,10 +329,15 @@ a {
 }
 
 .text-footer {
-  font-family: Roboto;
+  margin: 0 auto;
+    font-family: Roboto;
     font-style: normal;
     font-weight: 200;
     font-size: 13px;
     color: #1187a3;
 }
 
+.text-footer-wrapper {
+  background-color: white;
+  margin-top: -80px;
+}
