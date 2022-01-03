@@ -280,3 +280,21 @@ a {
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
+
+.skills-item {
+    width: 450px;
+    height: 80px;
+    /*margin-bottom: 30px;*/
+    background-color: #45b1c6;
+    opacity: 0.7;
+    margin-right: 50px;
+    margin-top: 25px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    color: #004558;
+    text-align: center;
+    padding-top: 40px;
+}
