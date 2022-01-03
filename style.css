@@ -302,3 +302,31 @@ a {
 .code-text {
     margin-left: 440px;
 }
+
+.footer {
+  background-color: #45b1c6;
+  height: 160px;
+}
+
+.wrapper-rs_school_js {
+  width: 150px;
+  margin-right: 85px;
+  margin-top: 50px;
+  filter: invert(100%);
+}
+
+.icon-wrapper-footer{
+    /*padding-top: 50px;*/
+    padding-left: 30px;
+    margin-top: 50px;
+    /*height: 70px;*/
+}
+
+.text-footer {
+  font-family: Roboto;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 13px;
+    color: #1187a3;
+}
+
