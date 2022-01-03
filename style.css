@@ -294,7 +294,11 @@ a {
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
-    color: #004558;
+    color: white;
     text-align: center;
     padding-top: 40px;
+}
+
+.code-text {
+    margin-left: 440px;
 }
